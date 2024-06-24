@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" filepath="$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_COMPLETO_NELIO_ALVES_UDEMY.iml" filepath="$PROJECT_DIR$/.idea/JAVA_COMPLETO_NELIO_ALVES_UDEMY.iml" />
     </modules>
   </component>
