@@ -11,11 +11,6 @@ public class Entrada_de_dados {
       String nome = sc.next();
       System.out.println("Voce digitou: " + nome);
 
-      // ler uma frase
-
-      //String texto = sc.();
-      //System.out.println("Voce digitou: " + texto);
-
       // ler um número inteiros
 
       System.out.println("Digite um número inteiro: ");
